@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TurismoActivity!</string>
+    <string name="app_name">Turismo</string>
+    <string name="cidade">Cidade:</string>
+    <string name="estado">Estado:</string>
+    <string name="pais">Pais:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitute">Longitute:</string>
+    <string name="dica">Dica de lugares para visitar:</string>
+    <string name="valorGasto">Valor gasto na viagem:</string>
+    <string name="dataVisita">Data visita:</string>
+    <string name="ok">Ok</string>
+
+</resources>
